@@ -4,6 +4,7 @@ public class Lampe {
     
     /**Definir la puissance de la Lampe.
      * MODIFICATION SUR LE HJAVA ADEMAGE !
+     * youpi !!!!!!! 
      */
 	public int puissance ;
     
