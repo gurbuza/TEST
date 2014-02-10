@@ -3,7 +3,7 @@ package test1;
 public class Lampe {
     
     /**Definir la puissance de la Lampe.
-     * 
+     * MODIFICATION SUR LE HJAVA ADEMAGE !
      */
 	public int puissance ;
     
